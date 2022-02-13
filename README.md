@@ -2,7 +2,7 @@
 
 Watch Tutorial Video: https://www.youtube.com/watch?v=4-GTX6vW2Z4
 
-This is a complete course to develop .Net applications or services with gRPC. This video is part of a series and this is the second video of the gRPC C# Tutorial Series. In this video we are going to see about the gRPC JWT Token in .Net Core [gRPC JWT Token .Net Core and DotNet gRPC Authorization].
+This is a complete course to develop .Net applications or services with gRPC. This video is part of a series and this is the fourth video of the gRPC C# Tutorial Series. In this video we are going to see about the gRPC JWT Token in .Net Core [gRPC JWT Token .Net Core and DotNet gRPC Authorization].
 
 gRPC C# Tutorial Playlist link:
 https://www.youtube.com/playlist?list=PLzewa6pjbr3IOa6POjAMM0xiPZ-shjoem
