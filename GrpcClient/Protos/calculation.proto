@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+option csharp_namespace = "GrpcServer";
+
+package calculation;
+
+service Calculation {
+  rpc Add(InputNumbers) returns (CalculationResult);
+  rpc Subtract (InputNumbers) returns (CalculationResult);
+  rpc Multiply (InputNumbers) returns (CalculationResult);
+}
+
+message InputNumbers{
+	int32 Number1 = 1;
+	int32 Number2 = 2;
+}
+
+message CalculationResult{
+	int32 Result = 1;
+}
